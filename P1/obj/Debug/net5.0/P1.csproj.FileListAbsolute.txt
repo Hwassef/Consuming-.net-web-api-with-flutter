@@ -1,0 +1,12 @@
+C:\Users\hassi\source\repos\P1\bin\Debug\net5.0\P1.deps.json
+C:\Users\hassi\source\repos\P1\bin\Debug\net5.0\P1.dll
+C:\Users\hassi\source\repos\P1\bin\Debug\net5.0\ref\P1.dll
+C:\Users\hassi\source\repos\P1\bin\Debug\net5.0\P1.pdb
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\P1.csproj.AssemblyReference.cache
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\P1.AssemblyInfoInputs.cache
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\P1.AssemblyInfo.cs
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\P1.csproj.CoreCompileInputs.cache
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\P1.dll
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\ref\P1.dll
+C:\Users\hassi\source\repos\P1\obj\Debug\net5.0\P1.pdb
